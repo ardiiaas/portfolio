@@ -7,5 +7,6 @@ Menggunakan
 - Remixicons, (Icon)
 - SwiperJs, (Slider)
 
-Github = https://github.com/ardiiaas/portfolio_asril
+Github = https://github.com/ardiiaas/portfolio_asril 
+
 Demo = https://portfolio-asril.vercel.app/
