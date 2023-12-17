@@ -8,3 +8,4 @@ Menggunakan
 - SwiperJs, (Slider)
 
 Github = https://github.com/ardiiaas/portfolio_asril
+Demo = https://portfolio-asril.vercel.app/
