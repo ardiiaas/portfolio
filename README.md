@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Responsive Personal Portfolio Website
 
 Menggunakan
@@ -7,3 +7,4 @@ Menggunakan
 - Remixicons, (Icon)
 - SwiperJs, (Slider)
 
+Github = https://github.com/ardiiaas/portfolio_asril
