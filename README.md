@@ -7,4 +7,3 @@ Menggunakan
 - Remixicons, (Icon)
 - SwiperJs, (Slider)
 
-preview.png
