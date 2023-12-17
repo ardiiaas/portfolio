@@ -6,3 +6,5 @@ Menggunakan
 - Google Fonts, (Font)
 - Remixicons, (Icon)
 - SwiperJs, (Slider)
+
+preview.png
